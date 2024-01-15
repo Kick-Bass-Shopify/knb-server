@@ -1,0 +1,1 @@
+run command DEBUG=knb-server:* npm start to start server
